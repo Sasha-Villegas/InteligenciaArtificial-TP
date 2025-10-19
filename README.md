@@ -1,3 +1,19 @@
+# TP3 – Modelo de Hopfield (Reconocimiento de Patrones)
+
+**Autor:** Sasha Villegas Basso  
+**Materia:** Inteligencia Artificial  
+**Universidad:** Nacional de Río Cuarto  
+
+## 🧠 Descripción
+Prototipo implementado desde cero del **modelo de red de Hopfield**, orientado a la recuperación de imágenes binarias simples.  
+El modelo demuestra cómo una red puede memorizar y recuperar patrones a partir de versiones ruidosas.
+
+## ⚙️ Requisitos
+```bash
+pip install numpy
+
+
+
 # TP2 – Búsqueda en el espacio de estados (línea de montaje 1D)
 
 Este repositorio implementa y compara:
